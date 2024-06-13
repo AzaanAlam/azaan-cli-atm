@@ -1,0 +1,19 @@
+{
+  "name": "azaan-cli-atm",
+  "version": "2.3.3",
+  "description": "A simple ATM with TypeScript, Node.js and Inquirer (PIN number: 1234)",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
